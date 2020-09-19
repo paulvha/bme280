@@ -53,7 +53,7 @@
  **********************************************************************/
 
 #include "BME280.h"
-#define  VERSION "September 2018"
+#define  VERSION "September 2020"
 
 #define  BME280_ADDR    0x77    // Default i2C Address
 
